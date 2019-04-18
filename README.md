@@ -1,4 +1,4 @@
 # tabula rasa
-- clone reop
+- clone repo
 - create database
 - deploy to galaxy
